@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+#emiResult {
+    font-size: 24px;
+    font-weight: bold;
+    color: green;
+}
